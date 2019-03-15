@@ -1,0 +1,9 @@
+PART B
+Answer any four questions : Each carrirs five marks                                 4*5=20
+13. Explain list tag 
+14. Generate a registration form
+15. Explain CLr
+16. Explain delegate 
+17.  Describe the features kd asp. Net
+18. What is data 
+                                                              PART C

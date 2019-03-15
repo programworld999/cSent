@@ -1,0 +1,15 @@
+PART A
+Answer any ten questions : Each carrirs two marks                                  10*2=20
+1. Discuss pompt().
+2. Discuss pompt().
+3. Different between style sheet and embedded style sheet.
+4. State DTD
+5. Explain msil
+6. Draw architecture of framework
+7. What us access modifier.
+8. Define abstract.
+9. what us access modifier
+10. What is query string.
+11. Describe adrotator control
+12. What is cookie.
+                                                                   PART B
